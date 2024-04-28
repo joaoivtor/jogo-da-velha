@@ -1,0 +1,22 @@
+@media screen and (max-width:640px) {
+
+    .titulo{
+        font-size: 3em;
+        margin: 25px 0;
+    }
+
+    .placar{
+        display: flex;
+        width: 100%;
+        justify-content: space-around;
+        margin:10px;
+    }
+    .container-conteudo{
+        flex-direction: column;
+    }
+
+    .jogos{
+        width: 300px;
+        
+    }
+}
